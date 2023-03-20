@@ -1,0 +1,1 @@
+function quick() {window.open('https://blips.app/tasks/new?link='+encodeURIComponent(document.location.href)+'&title='+encodeURIComponent(document.title)+'&selection='+document.getSelection(),'quicklink','width=660,height=640,resizable=no,scrollbars=no,toolbar=no,location=no,directories=no,personalbar=no,status=no,menubar=no,minimizable=no,titlebar=no')}quick();void(0);
